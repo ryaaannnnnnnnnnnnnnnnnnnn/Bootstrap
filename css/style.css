@@ -1,0 +1,7 @@
+.container-lg, .container-fluid {
+    background-color: dodgerblue;
+}
+
+.col {
+    border: 1px solid bisque;
+}
